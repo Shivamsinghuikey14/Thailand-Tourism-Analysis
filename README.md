@@ -50,3 +50,9 @@ Locations with better accommodation availability generate higher revenues, highl
 🛫 For Travel Agencies: Customize tour packages based on visitor preferences.
 
 📌 Interested in data-driven solutions? Let’s connect!
+
+Made By Shivam singh uikey 
+Skills Used: Power BI | DAX | Data Analysis | Data Visualization
+Tools Used: Power BI, Excel, SQL
+Objective: Designed to help tourism businesses optimize visitor revenue strategies.
+Connect-uikeyshivamsingh14.02@gmail.com
