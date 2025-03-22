@@ -4,6 +4,9 @@
 
 This interactive Power BI dashboard provides a comprehensive analysis of Thailand's tourism sector, offering insights into revenue generation, visitor trends, and location-based analytics to aid businesses, policymakers, and investors in strategic decision-making.
 
+DashBoard Screenshort
+![image](https://github.com/user-attachments/assets/fc7ca923-b8ad-4265-8252-6514d0387c67)
+
 
 
 📌 Project Overview
